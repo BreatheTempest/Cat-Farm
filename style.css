@@ -143,10 +143,10 @@ button {
 	border-radius: 1em;
 	border: 2px solid rgb(155, 203, 214);
 	padding: 0.3em 1em;
-	margin-left: 2em;
 	background-color: rgb(255, 206, 116);
 	font-weight: bold;
 	cursor: pointer;
+	width: 100%;
 }
 
 .product a {
